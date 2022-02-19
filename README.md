@@ -1,4 +1,4 @@
-```
+```JSON
 {
     "name" : "Rile", 
     "age" : 17,
